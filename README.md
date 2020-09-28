@@ -23,4 +23,5 @@ https://spotify-api-wrapper.appspot.com/artist/bruno
 
 ## Get an Artist's Top Tracks
  Use an artist id returned from the above request.
+ <br>
  https://spotify-api-wrapper.appspot.com/artist/0du5cEVh5yTK9QJze8zA0C/top-tracks
